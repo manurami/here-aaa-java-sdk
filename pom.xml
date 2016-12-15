@@ -347,7 +347,7 @@
                                 <outputDirectory>${project.reporting.outputDirectory}/jacoco-it</outputDirectory>
                             </configuration>
                         </execution>
-                </executions>
+                    </executions>
                 </plugin>
             </plugins>
         </pluginManagement>
